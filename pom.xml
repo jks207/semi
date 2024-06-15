@@ -6,6 +6,7 @@
   <groupId>com.ksemi</groupId>
   <artifactId>ksemi</artifactId>
   <version>0001</version>
+  <packaging>war</packaging>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
