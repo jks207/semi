@@ -1,21 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">
-<%--<head>--%>
-<%-- <meta charset="UTF-8">--%>
-<%-- <meta name="viewport" content="width=device-width, initial-scale=1.0">--%>
-<%-- <meta http-equiv="X-UA-Compatible" content="ie=edge">--%>
-<%-- <title>AMS 12</title>--%>
-<%-- <meta name="keywords" content="The 12th conference of the Aseanian Membrane Society (AMS 12)" />--%>
-<%-- <meta name="description" content="AMS was founded in 2002 and grows very fast since then. In the last AMS meeting (AMS 10) held in Busan, Korea, there were nearly 600 participants from more than 15 countries.">--%>
-<%-- <meta name="author" content="bizvalley.co.kr">--%>
-<%-- <meta property="og:type" content="website">--%>
-<%-- <meta property="og:title" content="">--%>
-<%-- <meta property="og:description" content="AMS was founded in 2002 and grows very fast since then. In the last AMS meeting (AMS 10) held in Busan, Korea, there were nearly 600 participants from more than 15 countries.">--%>
-<%-- <meta property="og:image" content="http://www.ams12.org/images/main/logo.png">--%>
-<%-- <meta property="og:url" content="http://www.ams12.org/">--%>
 
-<%--</head>--%>
 <%@include file="/WEB-INF/views/semi/include/head.jsp" %>
 
 <style>
