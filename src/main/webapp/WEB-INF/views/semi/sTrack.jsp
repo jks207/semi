@@ -18,7 +18,7 @@
 <%--</head>--%>
 <%@include file="/WEB-INF/views/semi/include/head.jsp" %>
 <style>
-    
+
     .president-box {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
