@@ -20,6 +20,7 @@
     border-bottom: solid 1px grey;
   }
 
+
   .side-quick-menu {
     padding: 5px;
     border-bottom: solid 1px grey;
