@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4175fa6c-112b-46fd-8b72-78ad227259e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/semi/track.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/semi/track.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="4175fa6c-112b-46fd-8b72-78ad227259e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -190,6 +188,7 @@
       <workItem from="1718410005064" duration="140000" />
       <workItem from="1718411732499" duration="173000" />
       <workItem from="1718411908849" duration="260000" />
+      <workItem from="1718412172048" duration="62000" />
     </task>
     <servers />
   </component>
