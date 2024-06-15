@@ -12,7 +12,6 @@ Thumbs.db
 .externalToolBuilders
 .project
 .~lock.jms_mail.xls#
-.idea/
 .mvn/
 /src/main/resources/dev/config.properties
 /src/main/resources/prod/config.properties
